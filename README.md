@@ -1,4 +1,4 @@
-# handler
+# handler, moved to [moved to github.com/azr/cmd](moved to github.com/azr/cmd)
 --
 Handler builds typed golang http handlers.
 
